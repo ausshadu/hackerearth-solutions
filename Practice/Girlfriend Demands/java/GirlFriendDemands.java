@@ -1,5 +1,6 @@
-https://www.hackerearth.com/problem/algorithm/girlfriends-demands/
-
+/*
+* Problem Link - https://www.hackerearth.com/problem/algorithm/girlfriends-demands/
+*/
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
