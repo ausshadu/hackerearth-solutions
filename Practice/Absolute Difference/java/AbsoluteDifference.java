@@ -6,6 +6,7 @@ import java.io.PrintWriter;
 class AbsoluteDifference {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
+		
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		PrintWriter writer = new PrintWriter(System.out);
 		int tc = Integer.parseInt(reader.readLine());
