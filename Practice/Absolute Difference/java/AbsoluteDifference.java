@@ -1,3 +1,8 @@
+/*
+* Problem Link - https://www.hackerearth.com/problem/algorithm/absolute-difference-2/	
+*/
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -9,9 +14,10 @@ class AbsoluteDifference {
 		
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		PrintWriter writer = new PrintWriter(System.out);
-		int tc = Integer.parseInt(reader.readLine());
-		if (tc >= 1 && tc <= 1000) {
-			while (tc-- > 0) {
+		
+		int testCases = Integer.parseInt(reader.readLine());
+		if (testCases >= 1 && testCases <= 1000) {
+			while (testCases-- > 0) {
 				boolean flag = true;
 				String line = reader.readLine();
 				int N = Integer.parseInt(line.charAt(0) + "");
