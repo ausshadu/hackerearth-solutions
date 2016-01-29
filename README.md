@@ -13,5 +13,5 @@
 | 7. | [Averages] (https://www.hackerearth.com/problem/algorithm/averages-1/) |
 | 8. | [Complete String] (https://www.hackerearth.com/problem/algorithm/complete-string-4/) |
 | 9. | [Fizz Buzz Test] (https://www.hackerearth.com/problem/algorithm/fizzbuzz/) |
-| 10. | | [Girlfriend's demands] (https://www.hackerearth.com/problem/algorithm/girlfriends-demands/) |
-| 11. | | [The best Internet Browser] (https://www.hackerearth.com/problem/algorithm/the-best-internet-browser-3/) |
+| 10. | [Girlfriend's demands] (https://www.hackerearth.com/problem/algorithm/girlfriends-demands/) |
+| 11. | [The best Internet Browser] (https://www.hackerearth.com/problem/algorithm/the-best-internet-browser-3/) |
