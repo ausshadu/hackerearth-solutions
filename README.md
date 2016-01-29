@@ -2,8 +2,12 @@
 
 ## Problems / Solutions
 
-- [Absolute Difference] (https://www.hackerearth.com/problem/algorithm/absolute-difference-2/)
-- [Alien Language] (https://www.hackerearth.com/problem/algorithm/alien-language/)
+| First Header  | Second Header |
+| ------------- | ------------- |
+| 1.  | [Absolute Difference] (https://www.hackerearth.com/problem/algorithm/absolute-difference-2/)  |
+| 2.  | [Alien Language] (https://www.hackerearth.com/problem/algorithm/alien-language/)  |
+
+- 
 - [Small Factorials] (https://www.hackerearth.com/problem/algorithm/small-factorials/)
 - [Password] (https://www.hackerearth.com/problem/algorithm/password-1/)
 - [4 - Batman] (https://www.hackerearth.com/problem/algorithm/4-batman/)
