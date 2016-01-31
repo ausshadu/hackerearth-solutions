@@ -15,3 +15,5 @@
 | 9. | [Fizz Buzz Test] (https://www.hackerearth.com/problem/algorithm/fizzbuzz/) |
 | 10. | [Girlfriend's Demands] (https://www.hackerearth.com/problem/algorithm/girlfriends-demands/) |
 | 11. | [The Best Internet Browser] (https://www.hackerearth.com/problem/algorithm/the-best-internet-browser-3/) |
+| 12. | [Karan and Even Numbers - Reloaded] (https://www.hackerearth.com/problem/algorithm/karan-and-even-numbers-reloaded/) |
+| 13. | [Apples and Oranges Strike Back!] (https://www.hackerearth.com/problem/algorithm/problem-2-10/) |
