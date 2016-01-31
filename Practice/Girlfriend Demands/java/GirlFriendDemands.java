@@ -16,8 +16,8 @@ class GirlFriendDemands {
 		String inputString = reader.readLine();
 		int len = inputString.length();
 		String[] values;
-		int tc = Integer.parseInt(reader.readLine());
-		while (tc-- > 0) {
+		int testCases = Integer.parseInt(reader.readLine());
+		while (testCases-- > 0) {
 			values = reader.readLine().split(" ");
 			long theNumberA = (Long.parseLong(values[0]) - 1) % len;
 			long theNumberB = (Long.parseLong(values[1]) - 1) % len;
@@ -26,7 +26,6 @@ class GirlFriendDemands {
 			} else {
 				writer.write("No\n");
 			}
- 
 		}
 		reader.close();
 		writer.flush();
