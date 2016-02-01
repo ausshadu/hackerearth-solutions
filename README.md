@@ -2,9 +2,9 @@
 
 ## Problems / Solutions
 
-| Sl. No.  | Problem |
+| Sl. No.  | Problem | Path |
 | ------------- | ------------- |
-| 1. | [Absolute Difference] (https://www.hackerearth.com/problem/algorithm/absolute-difference-2/)  |
+| 1. | [Absolute Difference] (https://www.hackerearth.com/problem/algorithm/absolute-difference-2/)  | [java] (https://github.com/ausshadu/hackerearth-solutions/blob/master/Practice/Absolute%20Difference/java/AbsoluteDifference.java) |
 | 2. | [Alien Language] (https://www.hackerearth.com/problem/algorithm/alien-language/)  |
 | 3. | [Small Factorials] (https://www.hackerearth.com/problem/algorithm/small-factorials/) |
 | 4. | [Password] (https://www.hackerearth.com/problem/algorithm/password-1/) |
