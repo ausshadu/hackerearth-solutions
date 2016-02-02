@@ -2,7 +2,7 @@
 
 ## Problems / Solutions
 
-| Sl. No.  | Problem | Languages Solved |
+| Sl. No.  | Problem | Language(s) Solved |
 | ------------- | ------------- | ------------- |
 | 1. | [Absolute Difference] (https://www.hackerearth.com/problem/algorithm/absolute-difference-2/)  | [Java] (https://github.com/ausshadu/hackerearth-solutions/blob/master/Practice/Absolute%20Difference/java/AbsoluteDifference.java) |
 | 2. | [Alien Language] (https://www.hackerearth.com/problem/algorithm/alien-language/)  | [Java] (https://github.com/ausshadu/hackerearth-solutions/blob/master/Practice/Alien%20Language/java/AlienLanguage.java) |
