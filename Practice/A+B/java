@@ -1,0 +1,27 @@
+import java.util.*;
+import java.math.BigInteger;
+
+// Warning: Printing unwanted or ill-formatted data to output will cause the test cases to fail
+ 
+class TestClass 
+{
+    public static void main(String args[] ) throws Exception 
+    {
+        //For taking Input from User 
+        Scanner in = new Scanner(System.in);
+        
+        String a,b;
+        BigInteger n,m,ans;
+        
+        while(in.hasNext())
+        {
+            a = in.next();
+            b = in.next();
+            n = new BigInteger(a);
+            m = new BigInteger(b);
+            ans = n.add(m);
+            System.out.println(ans);
+        }
+ 
+    }
+}
